@@ -33,4 +33,8 @@ for (chr in 1:22){
 
     # close the genotype file
     seqClose(genofile)
+
+
+    #testing saving of file
+
 }
