@@ -6,6 +6,9 @@ library(SNPRelate)
 library(SeqArray)
 
 
+# ? adding a comment to commit changes
+
+
 start_file_name <- "split.chr"
 end_file_name <- ".gds"
 
