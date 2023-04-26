@@ -11,3 +11,7 @@ nextflow run pgscatalog/pgsc_calc \
     --max_cpus 32 \
     --max_memory 256.GB
     
+
+
+    #commenting to show edits
+    
