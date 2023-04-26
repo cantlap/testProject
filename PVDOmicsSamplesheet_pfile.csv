@@ -1,0 +1,2 @@
+sampleset,vcf_path,vcf_genotype_field,bfile_path,pfile_path,chrom
+PVDOmics_set,,GT,,PVDOmics_p_file,
